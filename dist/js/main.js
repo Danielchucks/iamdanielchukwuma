@@ -2,7 +2,7 @@
 const menuBtn = document.querySelector(".menu-btn");
 const menu = document.querySelector(".menu");
 const menuNav = document.querySelector(".menu-nav");
-const menuBranding = document.querySelector(".menu-branding");
+const menuBranding = document.querySelector(".menu-image");
 const navItems = document.querySelectorAll(".nav-item");
 
 // Set the initial set of the menu
